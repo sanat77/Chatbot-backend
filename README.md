@@ -22,6 +22,22 @@
   <!--[![Backers on Open Collective](https://opencollective.com/nest/backers/badge.svg)](https://opencollective.com/nest#backer)
   [![Sponsors on Open Collective](https://opencollective.com/nest/sponsors/badge.svg)](https://opencollective.com/nest#sponsor)-->
 
+## Dependancy
+
+(Redirect to Frontend repository for demo and usage)
+
+Frontend - https://github.com/sanat77/Chatbot-frontend
+
+AI Model - https://github.com/sanat77/Chatbot-model
+
+## Swagger API Documentation
+
+http://localhost:3100/api
+
+## API Postman Collection
+
+
+
 ## Description
 
 [Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
