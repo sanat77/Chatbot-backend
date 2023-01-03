@@ -26,7 +26,6 @@ export class MessageController {
         const messageId = body.messageId;
         const user = body.user;
         const message = body.message;
-        // find an answer from ML model based on the message text
         const newMessage = await this.messageService.create(messageId, user, message);
         if (!newMessage) {
             return response.status(HttpStatus.BAD_REQUEST).json({});
