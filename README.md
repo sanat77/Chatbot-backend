@@ -36,7 +36,7 @@ http://localhost:3100/api
 
 ## API Postman Collection
 
-
+https://github.com/sanat77/Chatbot-backend/blob/main/chatbot.postman_collection.json
 
 ## Description
 
